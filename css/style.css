@@ -1735,7 +1735,7 @@ footer p {
 .about-section {
     padding: 50px;
     text-align: center;
-   background:  linear-gradient(217deg, rgba(231, 0, 0, 0.8), rgba(255,0,0,0) 70.71%), url("./imag/damidami.jpg");
+	background:  linear-gradient(217deg, rgba(231, 0, 0, 0.8), rgba(255,0,0,0) 70.71%), url("~/imag/damidami.jpg");
     color: white;
     margin-top: 8%;
 }
