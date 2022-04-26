@@ -3260,14 +3260,12 @@ header {
     list-style: none;
 }
 .stafb{
-    padding: 9px;
-    color: #ffffff;
-    background-color: #ff015f;
-    align-items: center;
-    font-weight: 600;
-    position: relative;
-    left: 76vh;
-    top: 21px;
+padding: 9px;
+ color: #ffffff;
+ width: inherit;
+ background-color: #ff015f;
+ align-items: center;
+ font-weight: 600;
 }
 @media (max-width: 620px) {
     .stafb{
@@ -3277,10 +3275,7 @@ header {
     background-color: #ff015f;
     align-items: center;
     font-weight: 600;
-    position: relative;
-    left: 16vh;
-    top: 15px;
-
+  
 
 }
 .footer-basic {
